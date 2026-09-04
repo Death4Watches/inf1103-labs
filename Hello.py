@@ -4,7 +4,7 @@
 # git init: initialize git repository
 # git status: check the repo status
 # git add: add file to the repository
-# git commit -m: create a commit
+# git commit -m <File Name>: create a commit
 # git log: check git history
 # git diff: check the difference between repo files
 # git restore: restore previous commited file
