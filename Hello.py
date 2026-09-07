@@ -66,3 +66,4 @@ print("Category: ", category)
 
 if age>40 and category == "fun" or "funny":
     print("You are old, what is fun for you???")
+
