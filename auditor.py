@@ -4,7 +4,7 @@ failed_entries = 0
 while True:
     inventory_input = input("Enter the Stock Quantity (type quit to leave): ")        
 
-    if inventory_input == "quit" | "Quit":
+    if inventory_input == "quit":
         print("Final Inventory: " + str(inventory))
         print("Failed Enteries: " + str(failed_entries))
         print("Goodbye!")
